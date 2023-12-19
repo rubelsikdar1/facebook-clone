@@ -1,0 +1,84 @@
+.bg{
+    background-color: #F0F2F5;
+}
+
+.fullPage{
+    width: 100vw;
+    height: 100vh;
+    max-width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.heading{
+    color: #0866FF;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 55px;
+
+}
+.para{
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+}
+.loginBOx{
+    width: 400px;
+    height: 350px;
+    background-color: #FFFFFF;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+.inputAria{
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0px;
+}
+.inputBox{
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 350px;
+    border-radius: 6px;
+    border: 1px solid #dddfe2;
+    margin: 5px 0;
+}
+.submit{
+    background-color: #1877f2;
+    color: white;
+    font-size: 20px;
+}
+.forgotBtn{
+    color: #0866FF;
+    border: none;
+    background: none;
+    border-bottom: 1px solid #dddfe2;
+}
+.accountBtn{
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 20px;
+    background-color: #42b72a;
+    color: white;
+    margin: 20px auto;
+}
+.boxDown{
+    margin-top: 28px;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+}
+.spanText{
+    color: #1c1e21;
+    
+}

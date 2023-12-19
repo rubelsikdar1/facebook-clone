@@ -1,0 +1,119 @@
+.bg{
+    background-color: #F0F2F5;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.box{
+    width: 430px;
+    height: 515px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 8px;
+}
+.boxPadding{
+    padding: 15px;
+}
+.singUp{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    line-height: 30px;
+}
+.para{
+    color: #606770;
+}
+.cross{
+    font-size: 24px;
+}
+.inputName{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.name{
+    font-size: 15px;
+    line-height: 16px;
+    padding: 12px;
+    border-radius: 6px;
+    background: #f5f6f7;
+    width: 195px;
+    border: 1px solid #dddfe2;
+    margin-top: 10px;
+}
+.em{
+    font-size: 15px;
+    line-height: 16px;
+    padding: 12px;
+    border-radius: 6px;
+    background: #f5f6f7;
+    width: 400px;
+    border: 1px solid #dddfe2;
+    margin-top: 10px;
+}
+.dateOrGender{
+    margin-top: 10px;
+}
+.db{
+    color: #606770;
+    font-size: 13px;
+}
+.birthFlx{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.select{
+    font-size: 15px;
+    line-height: 16px;
+    padding: 12px;
+    border-radius: 6px;
+    width: 126px;
+    border: 1px solid #dddfe2;
+}
+.genderB{
+    margin-top: 15px;
+}
+.genderBox{
+    font-size: 15px;
+    line-height: 16px;
+    padding: 12px;
+    border-radius: 6px;
+    width: 126px;
+    border: 1px solid #dddfe2;
+}
+.gender{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.gen{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.trms{
+    color: #777;
+    font-size: 11px;
+    margin-top: 10px;
+}
+.SingUpBtn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
+.singUpB{
+    width: 200px;
+    padding: 10px 12px;
+    border: none;
+    background-color: #00a400;
+    border-radius: 6px;
+    color: white;
+    font-size: 18px;
+}
