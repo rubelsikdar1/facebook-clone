@@ -1,0 +1,15 @@
+.mainBox{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.pic{
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+}

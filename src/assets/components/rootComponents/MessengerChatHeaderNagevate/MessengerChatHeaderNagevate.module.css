@@ -1,0 +1,13 @@
+.main{
+    width: auto;
+    padding: 8px 12px;
+    background-color: #DFE9F2;
+    margin: 7px 0;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(65, 59, 59);
+}
+.main:hover{
+    background-color: #b0b7bd;
+}

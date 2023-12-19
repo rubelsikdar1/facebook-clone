@@ -1,9 +1,11 @@
+import Style from "./MessengerChatHeaderNagevate.module.css"
 
-
-const MessengerChatHeaderNagevate = () => {
+const MessengerChatHeaderNagevate = ({name}) => {
     return (
         <div>
-            <h1>check</h1>
+            <div className={Style.main}>
+                {name}
+            </div>
         </div>
     );
 };
