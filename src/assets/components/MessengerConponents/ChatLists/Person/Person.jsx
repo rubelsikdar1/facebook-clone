@@ -1,4 +1,4 @@
-import Style from "./Person.module.css"
+import Style from "./Person.module.css";
 
 const Person = () => {
     return (
