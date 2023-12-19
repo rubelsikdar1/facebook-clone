@@ -1,12 +1,13 @@
 import Style from "./MessegerMainLayout.module.css";
 import ChatHeader from './../../components/MessengerConponents/ChatHeader/ChatHeader';
+import ChatListHeader from './../../components/MessengerConponents/ChatListHeader/ChatListHeader';
 
 const MessengerMainLayout = () => {
   return (
     <div>
       <div className={Style.mainBox}>
             <div className={Style.left}>
-                <h1>check</h1>
+                <ChatListHeader/>
             </div>
             <div className={Style.medile}>
                 <ChatHeader/>

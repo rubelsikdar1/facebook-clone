@@ -24,7 +24,7 @@
     font-size: 40px;
 }
 .searchBox{
-    width: 280px;
+    width: 100%;
     height: 40px;
     background-color: #F0F2F5;
     border: none;
@@ -34,7 +34,7 @@
     justify-content: center;
 }
 .sfx{
-    width: 230px;
+    width: 80%;
     height: 35px;
     background-color: #F0F2F5;
     border: none;
